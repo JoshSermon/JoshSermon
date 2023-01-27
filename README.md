@@ -59,17 +59,7 @@
 </table>
 
 </div>
-  <!--Analytics & Data-->
-<h2 align="center">Data & Analytics</h2>
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=JoshSermon&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=9b6647&sideNums=9b6647&sideLabels=DD4236&background=FFFFFF00&fire=9b6647&sideLabels=9b6647&currStreakLabel=9b6647">
-</td>
-<td width="50%">
-</table>
-</div>
+ 
 <img src="https://activity-graph.herokuapp.com/graph?username=JoshSermon&bg_color=FFFFFF00&color=Ffffff&line=9b6647&point=714A33&hide_border=true&title_color=">
 <h2 align="center">Technical Skills</h2>
 <p align="center">
