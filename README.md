@@ -59,8 +59,7 @@
 </table>
 
 </div>
- 
-<img src="https://activity-graph.herokuapp.com/graph?username=JoshSermon&bg_color=FFFFFF00&color=Ffffff&line=9b6647&point=714A33&hide_border=true&title_color=">
+
 <h2 align="center">Technical Skills</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-9b6647?style=for-the-badge&logo=html5&logoColor=white" height=25>
