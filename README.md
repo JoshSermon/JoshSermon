@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    Front End Developer who creates successful websites that meet customer needs. I have experience producing impactful, innovative websites that engage customers and deliver business results. In addition, I am solution- driven to fix bugs that will allow websites to run efficiently.
+    Front End Developer who creates successful websites that meet customer needs. I have experience producing impactful, innovative websites that engage customers and deliver business results. In addition, I am solution-driven to fix bugs that will allow websites to run efficiently.
 </p>
 
 
