@@ -1,4 +1,4 @@
-![alt text](https://github.com/joshsermon/joshsermon/blob/main/front-end-hitech.gif?raw=true)
+![alt text](https://github.com/joshsermon/joshsermon/blob/main/josh-hitech-2025-2026-cover.png?raw=true)
 
 <p align="center">
 <a href="https://twitter.com/joshhitech"><img src="https://img.shields.io/badge/joshhitech-9b6647?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
