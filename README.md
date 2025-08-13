@@ -13,7 +13,7 @@
 
 <!--Project Section -->
 
-<h2 align="center">Highlighted Projects </h2>
+<!-- <h2 align="center">Highlighted Projects </h2>
 <div align="center">
 <table>
 <tr>
@@ -56,7 +56,7 @@
 </div>
 </table>
 
-</div>
+</div> -->
 
 <h2 align="center">Technical Skills</h2>
 <p align="center">
